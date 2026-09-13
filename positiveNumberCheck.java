@@ -9,6 +9,7 @@ public class positiveNumberCheck{
         Scanner sc = new Scanner(System.in);
 
         long num = sc.nextInt();
+        long num = sc.nextLong();
 
         if(num > 0){
 
